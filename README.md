@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello Everyone 👋
+
+I am a college student, striving to set my foot in programming.
 
 <!--
 **nishantprime/nishantprime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
