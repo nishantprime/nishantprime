@@ -2,6 +2,13 @@
 
 I am a college student, striving to set my foot in programming.
 
+
+
+🌱 I’m currently learning -
+
+   • Machine Learning
+
+
 <!--
 **nishantprime/nishantprime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
